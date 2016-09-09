@@ -1,0 +1,12 @@
+﻿  main.cpp
+src\main.cpp(199): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+src\main.cpp(227): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+src\main.cpp(373): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(374): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  38 of 116 functions (32.8%) were compiled, the rest were copied from previous compilation.
+    27 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  framework.vcxproj -> E:\C_PROJECTS\SMFL\snake\.\x64\Release\framework.exe
+  framework.vcxproj -> E:\C_PROJECTS\SMFL\snake\.\x64\Release\framework.pdb (Full PDB)

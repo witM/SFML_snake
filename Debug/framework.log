@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\c_projects\smfl\snake\src\main.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c_projects\smfl\snake\src\main.cpp(81): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+e:\c_projects\smfl\snake\src\main.cpp(234): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\c_projects\smfl\snake\src\main.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  framework.vcxproj -> E:\C_PROJECTS\SMFL\snake\.\x64\Debug\framework.exe
+  framework.vcxproj -> .\x64\Debug\framework.pdb (Full PDB)
